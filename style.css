@@ -1,0 +1,144 @@
+body {
+background-image: linear-gradient(to right top, #000000, #210f13, #3b161d, #571b24, #732029, #842129, #952227, #a62424, #b01e1e, #ba1717, #c40e0d, #cd0000);
+}
+html, body {
+	min-height: 100%;
+}
+
+.header {
+	position: sticky;
+	top: 0;
+	background: black;
+	padding: 10px;
+	border: 1px solid;
+	font-family: 'Lato', sans-serif;
+	text-transform: uppercase;
+	color: white;
+	text-align: center;
+	z-index: 5;
+}
+
+a {
+	font-family: 'Lato', sans-serif;
+	font-size: 13px;
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+.container {
+	display: flex;
+	justify-content: space-around;
+}
+
+.son {
+	width: 400px;
+	height: 400px;
+	background-color: black;
+	margin-top: 100px;
+	position: relative;
+}
+
+.sonluxarticle {
+	font-size: 14px;
+	font-family: 'Lato', sans-serif;
+	color: white;
+	text-transform: uppercase;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+
+img {
+	width: 400px;
+	height: auto;
+}
+
+p {
+	color: white;
+	position: absolute;
+	font-size: 10px;
+	font-family: 'Lato', sans-serif;
+	color: white;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 5px;
+}
+
+.more {
+	color: white;
+	font-style: bold;
+	position: absolute;
+	font-size: 10px;
+	font-family: 'Lato', sans-serif;
+	color: white;
+	margin-top: 10px;
+}
+
+
+
+.randomcontent {
+	width: 400px;
+	height: 400px;
+	background-color: black;
+	margin-top: 100px;
+	position: relative;
+}
+.random {
+	font-size: 14px;
+	font-family: 'Lato', sans-serif;
+	color: white;
+	text-transform: uppercase;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+
+
+.randomalbum {
+	width: 400px;
+	height: 400px;
+	background-color: black;
+	margin-top: 100px;
+	position: relative;
+}
+
+.randomalb {
+	font-size: 14px;
+	font-family: 'Lato', sans-serif;
+	color: white;
+	text-transform: uppercase;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+
+.youtube {
+	width:400px;
+	height:225px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

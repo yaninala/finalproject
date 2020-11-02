@@ -1,0 +1,46 @@
+body {
+background-image: linear-gradient(to right top, #000000, #210f13, #3b161d, #571b24, #732029, #842129, #952227, #a62424, #b01e1e, #ba1717, #c40e0d, #cd0000);
+}
+html, body {
+	min-height: 100%;
+}
+.header {
+	position: sticky;
+	top: 0;
+	background: black;
+	padding: 10px;
+	border: 1px solid;
+	font-family: 'Lato', sans-serif;
+	text-transform: uppercase;
+	color: white;
+	text-align: center;
+	z-index: 5;
+}
+
+a {
+	font-family: 'Lato', sans-serif;
+	font-size: 13px;
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+p{
+	color: white;
+	position: absolute;
+	font-size: 20px;
+	font-family: 'Lato', sans-serif;
+	color: white;
+}
+
+.container {
+	display: flex;
+	justify-content: space-around;
+	margin-top: 50px;
+}
+
+.video {
+	margin-right: 20px;
+}
